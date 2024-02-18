@@ -15,8 +15,6 @@ class MyApp(QtWidgets.QMainWindow,Ui_MainWindow):
         puntomedio = int((int(self.numero1.text())+int(self.numero2.text()))/2)
         calculo = "El punto medio de los valores ingresados es " + str(puntomedio)
         self.resultado.setText(calculo)
-        self.numero1.clear()
-        self.numero2.clear()
 
 
 if __name__ == "__main__":

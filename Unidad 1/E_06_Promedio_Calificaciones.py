@@ -16,11 +16,6 @@ class MyApp(QtWidgets.QMainWindow,Ui_MainWindow):
         promedio = (float(self.calif1.text()) + float(self.calif2.text()) + float(self.calif3.text()) + float(self.calif4.text()) + float(self.calif5.text()))/5
         calculo = "El promedio de tu calificacion es "+str(promedio)
         self.resultado.setText(calculo)
-        self.calif1.clear()
-        self.calif2.clear()
-        self.calif3.clear()
-        self.calif4.clear()
-        self.calif5.clear()
 
 if __name__ == "__main__":
         app = QtWidgets.QApplication(sys.argv)
