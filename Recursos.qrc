@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="Imagenes">
+    <file>escoba.png</file>
+    <file>check-mark.png</file>
+    <file>Media/__voyager_reverse_1999_drawn_by_konohana_weibo__c0e7302d2c1ba8e61c6305cb504bed5e.jpg</file>
+    <file>Media/dodigo.jpg</file>
+    <file>Media/FI.jpg</file>
+    <file>Media/lesis.jpg</file>
+    <file>Media/logo.jpg</file>
+    <file>Media/nati.jpg</file>
+    <file>Media/UAT.jpg</file>
+    <file>Media/vicky.jpg</file>
+  </qresource>
+</RCC>
